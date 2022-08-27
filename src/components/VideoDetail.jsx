@@ -74,7 +74,6 @@ const VideoDetail = () => {
           py={{ md: 1, xs: 5 }}
           justifyContent="center"
           alignItems="center"
-          width="20%"
         >
           <Videos videos={videos} direction="column" />
         </Box>
